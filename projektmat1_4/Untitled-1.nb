@@ -1,0 +1,69 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      2079,         61]
+NotebookOptionsPosition[      1632,         46]
+NotebookOutlinePosition[      2031,         62]
+CellTagsIndexPosition[      1988,         59]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ "niech n i d \[GreaterEqual] 1 b\:0119d\:0105 liczbami  ca\[LSlash]kowitymi. \
+istnieje jedna para liczb q i b, taka \:017ce \nn = qd + r | 0 \[LessEqual] r \
+\[LessEqual] d\n\nd-d\nniech X = {n - td|t \[Element] ",
+ Cell[BoxData[
+  TemplateBox[{},
+   "Integers"]],ExpressionUUID->"a0d76aad-391d-45a9-9d7b-cc69bf89125c"],
+ ", n - td \[GreaterEqual]}. Zbi\[OAcute]r X jest niepusty.\nniech r \
+b\:0119dzie najmniejszym elementem zbioru X , w\[OAcute]wczas r = n - qd dla \
+pewnego q\[Element]",
+ Cell[BoxData[
+  TemplateBox[{},
+   "Integers"]],ExpressionUUID->"c7b1db00-3515-46d5-b933-7459f8c0be66"],
+ " , pozostaje wi\:0119c wykaza\[CAcute]"
+}], "Input",
+ CellChangeTimes->{{3.9384927399387007`*^9, 3.938492792137746*^9}, {
+  3.938493222328413*^9, 3.938493312129054*^9}, {3.938493356434773*^9, 
+  3.938493516220766*^9}},
+ FormatType->
+  "TextForm",ExpressionUUID->"3c69262c-2ad3-4385-885a-eb4ce17b6c54"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.938493469897962*^9, 
+  3.93849347229021*^9}},ExpressionUUID->"86ddc0a1-2767-4061-9a29-\
+1bc642888be4"]
+},
+WindowSize->{606, 683.25},
+WindowMargins->{{-2.25, Automatic}, {Automatic, -22.5}},
+FrontEndVersion->"14.1 for Linux x86 (64-bit) (July 16, 2024)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"b2266532-bd80-4646-8660-480f95041f7f"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[554, 20, 920, 19, 134, "Input",ExpressionUUID->"3c69262c-2ad3-4385-885a-eb4ce17b6c54"],
+Cell[1477, 41, 151, 3, 29, "Input",ExpressionUUID->"86ddc0a1-2767-4061-9a29-1bc642888be4"]
+}
+]
+*)
+
